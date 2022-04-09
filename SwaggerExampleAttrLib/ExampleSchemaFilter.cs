@@ -25,7 +25,7 @@ namespace SwaggerExampleAttrLib
                     schema.Example = openApiClasses;
                 }
             }
-            catch (Exception e)
+            catch (Exception)
             {
                 if (context.MemberInfo != null)
                     Console.WriteLine(context.MemberInfo.Name);
