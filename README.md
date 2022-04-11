@@ -1,7 +1,7 @@
 
 # SwaggerExampleAttr for .NET core
 
-Tech stack used :  [ASP.NET](http://asp.net/)  Core 5.0, C# 9.0
+Tech stack used :  [ASP.NET](http://asp.net/)  Core 6.0, C# 9.0
 ## Introduction
 SwaggerExampleAttr is lightweight .NET core library that allow developers to customize their request model examples in Swagger. this library would be focus on new feature to create more readable request model examples for your apis.
 
