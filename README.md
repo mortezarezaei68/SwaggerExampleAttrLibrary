@@ -10,7 +10,7 @@ SwaggerExampleAttr is now available in [NuGet](https://www.nuget.org/packages/Mi
 
 install nuget library
 ```c#
-dotnet add package SwaggerExampleAttr --version 1.0.1
+Install-Package SwaggerExampleAttrLib -Version 0.1.19
 ```
 add schema filter in SwaggerGen
 ```c#
