@@ -4,8 +4,7 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-<!--        <PackageId>SwaggerExampleAttr</PackageId>-->
-<!--        <Version>1.0.1</Version>-->
+        <RepositoryUrl>https://github.com/mortezarezaei68/SwaggerExampleAttrLibrary.git</RepositoryUrl>
         <Authors>Morteza Rezaei</Authors>
     </PropertyGroup>
 
